@@ -1,4 +1,4 @@
-# INDP2F
+# Description du projet
 Ce projet s’inscrit dans le cadre de la matière Technologie des services, il vise à nous permettre de découvrir 
 les technologies clés du Web, de découvrir les architectures orientées services/orientées web, de maîtriser les 
 concepts et les enjeux des Web Services REST, des WebSockets et des protocoles adoptant le patron « Publish/Subscribe », ainsi
