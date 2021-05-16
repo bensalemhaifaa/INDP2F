@@ -8,4 +8,6 @@ Durant la première semaine, nous avons pu développer quelques pages Html ainsi
 sur la cybersécurité et permet ainsi de découvrir plusieurs notions les plus importantes de ce domaine.
 Durant la deuxième semaine, nous avons tenté de rendre notre site web plus interactif et dynamique part l’ajout
 d’un code Javascript ainsi que nous nous sommes focalisés à rendre notre travail responsive design. 
-Pour finir, nous avons utilisé un API qui permet l'intéraction entre l'utilisateur et un mock web server 
+Pour finir, nous avons utilisé un API qui permet l'intéraction entre l'utilisateur et un mock web server.
+Durant la troisième semaine, nous nous sommes familiarisés avec la technologie de services REST et nous avons pu faire fonctionner le code
+du tutoriel sur le serveur WildFly. Par la suite, nous avons tenté de développer nos propres services REST pour notre mini-projet.
