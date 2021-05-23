@@ -12,6 +12,7 @@ Pour finir, nous avons utilisé un API qui permet l'intéraction entre l'utilisa
 Durant la troisième semaine, nous nous sommes familiarisés avec la technologie de services REST et nous avons pu faire fonctionner le code
 du tutoriel sur le serveur WildFly. Par la suite, nous avons tenté de développer nos propres services REST pour notre mini-projet.
 Durant la quartième semaine, nous avons réalisé : 
+
                                - Simple Chatroom Web Application
                                - FrontEnd : JavaScript Client
                                - BackEnd : Java API for WebSocket 
