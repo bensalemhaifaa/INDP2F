@@ -1,0 +1,11 @@
+#Sat May 22 00:14:03 GMT+01:00 2021
+ct=server
+a=new
+c=1
+s=0
+d=1621638843661
+v=3.9.105
+vl=0 \= failed, 1 \= successful
+cmp=server
+cl=org.jboss.ide.eclipse.as.wildfly.230
+l=Server Runtime ID
